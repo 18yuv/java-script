@@ -2,7 +2,7 @@
 
 ## heap (non-primitive)
 
-Heap storage is used in non primritive data types such as array, object and can be changed because they provide teh reference of the specified code. 
+Heap storage is used in non primritive data types such as array, object and can be changed because they provide the reference of the specified code. 
 
 ## stack (primitive)
 
