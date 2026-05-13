@@ -6,7 +6,30 @@ element.hidden = true;
 ```
 
 # element has attribute
+
+The element.hasAttribute(name) method in JavaScript returns a boolean (true/false) indicating if an HTML/XML element has a specific attribute. It is highly efficient for conditional logic to verify the presence of attributes like disabled, type, or id, regardless of their value.Key 
+
+
+DetailsSyntax:
+
+```js
+boolean = element.hasAttribute(name)
+````
+
+Return Value: true if the attribute exists, false otherwise.
+
 # element get atrribute
+
+The getAttribute() method is a standard web API used to retrieve the value of a specific attribute from an HTML or XML element. It is widely used in vanilla JavaScript, jQuery, and automation frameworks like Selenium.
+
+Syntax:
+
+```js
+element.getAttribute(name);
+```
+
+Return Value: The string value of the attribute, or null if the attribute does not exist.
+
 # element set atrribute
 # element remove atrribute
 # element atrributes
